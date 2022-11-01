@@ -5,7 +5,7 @@
 
 # 💫 About this project:
 #### 💫 Test Plan contains: Test plan_ID, Introduction, Test Items, References, Features to be tested, Features not to be tested, Entry Criteria, Exit Criteria, Suspension Criteria, Roles & Responsibilities, Schedule, Training, Risk & Mitigation, Test Environment/Lab, Test Deliverables, Approvals, Glossary.
-![test plan1](https://user-images.githubusercontent.com/112747904/199230812-bc0d62f5-8953-435e-badc-b632774ebfc8.PNG)
+![test plan1](https://user-images.githubusercontent.com/112747904/199232022-918c6d39-ed12-467b-8133-8d8df44ef513.PNG)
 ![test plan2](https://user-images.githubusercontent.com/112747904/199230832-a521fac8-8645-4133-a0a6-4375df9a83bc.PNG)
 ![test plan3](https://user-images.githubusercontent.com/112747904/199230847-93248871-2bbf-4922-9ad4-4c1737dd9632.PNG)
 
