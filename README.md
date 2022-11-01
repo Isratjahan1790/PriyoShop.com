@@ -4,12 +4,38 @@
 <h3 align="center">This project contains: Test Plan / Test cases / Report / Bug Report / Test Metrics / Mind Map / XMind / QA & QC / SDLC & STLC</h3>
 
 # 💫 About this project:
-1) Test Plan contains: Test plan_ID, Introduction, Test Items, References, Features to be tested, Features not to be tested, Entry Criteria, Exit Criteria, Suspension Criteria, Roles & Responsibilities, Schedule, Training, Risk & Mitigation, Test Environment/Lab, Test Deliverables, Approvals, Glossary
-2) Test Case contains: Test Case_ID, Module, Test Cases, Features, Fields, Test Data, Step Description, Expected Result, Actual Result, Bug Screenshot, Dev Comments, Final Status, Severity & Priority, Types of Testing.
-3) Report: Showing Summury.
-4) Bug Report contains: TC_ID, Issue, Reproducing steps, Environment, Module, Severity, Screenshot, Responsible QA.
-5) Test Metrics contains: No. of requirements, Avg. no. of test cases written per requirements, Total no. of test cases written for all requirements, Total no. of test cases executed, No. of test cases passed, No. of test cases failed, No. of test cases blocked, No. of test cases unexecuted, Total no. of defects indentified, Critical defects count, Higher defects count, Medium defects count, Low defects count, Customer defects, No. of defects found in UAT.
-6) MindMap contains a screenshot.
+#### 💫 Test Plan contains: Test plan_ID, Introduction, Test Items, References, Features to be tested, Features not to be tested, Entry Criteria, Exit Criteria, Suspension Criteria, Roles & Responsibilities, Schedule, Training, Risk & Mitigation, Test Environment/Lab, Test Deliverables, Approvals, Glossary.
+![test plan1](https://user-images.githubusercontent.com/112747904/199230812-bc0d62f5-8953-435e-badc-b632774ebfc8.PNG)
+![test plan2](https://user-images.githubusercontent.com/112747904/199230832-a521fac8-8645-4133-a0a6-4375df9a83bc.PNG)
+![test plan3](https://user-images.githubusercontent.com/112747904/199230847-93248871-2bbf-4922-9ad4-4c1737dd9632.PNG)
+
+
+
+
+
+
+
+
+
+#### 💫 Test Case contains: Test Case_ID, Module, Test Cases, Features, Fields, Test Data, Step Description, Expected Result, Actual Result, Bug Screenshot, Dev Comments, Final Status, Severity & Priority, Types of Testing.
+![Test case](https://user-images.githubusercontent.com/112747904/199229466-dbd7f1ed-ab5b-4a43-b744-f3ef5eaca31a.PNG)
+ 
+ 
+### 💫 Report: Showing Summury.
+![Report](https://user-images.githubusercontent.com/112747904/199229499-b328b4a7-d7b5-493e-b73a-2ae3d9cac14f.PNG)
+
+
+#### 💫 Bug Report contains: TC_ID, Issue, Reproducing steps, Environment, Module, Severity, Screenshot, Responsible QA.
+![Bug report](https://user-images.githubusercontent.com/112747904/199230151-ac302815-3041-4719-ba44-3d53d9500e06.PNG)
+
+
+#### 💫 Test Metrics contains: No. of requirements, Avg. no. of test cases written per requirements, Total no. of test cases written for all requirements, Total no. of test cases executed, No. of test cases passed, No. of test cases failed, No. of test cases blocked, No. of test cases unexecuted, Total no. of defects indentified, Critical defects count, Higher defects count, Medium defects count, Low defects count, Customer defects, No. of defects found in UAT.
+![test metrics](https://user-images.githubusercontent.com/112747904/199230126-f796b91b-6014-4828-a5e4-29fd6d880285.PNG)
+
+
+### 💫 MindMap: Showing all the features and their sub-features.
+![PriyoShop mindmap](https://user-images.githubusercontent.com/112747904/199227997-39b5525c-0dd0-4335-a35f-88554bc9ad81.png)
+
 
 
 # 💫 About Me:
