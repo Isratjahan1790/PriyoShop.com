@@ -15,7 +15,8 @@
  
  
 ### 💫 Report: Showing Summury.
-![Report](https://user-images.githubusercontent.com/112747904/199229499-b328b4a7-d7b5-493e-b73a-2ae3d9cac14f.PNG)
+
+![Report](https://user-images.githubusercontent.com/112747904/202728003-cb9e0896-c808-4cd3-8a90-f9a99690980a.PNG)
 
 
 #### 💫 Bug Report contains: TC_ID, Issue, Reproducing steps, Environment, Module, Severity, Screenshot, Responsible QA.
